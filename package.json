@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@types/react": "^15.0.14",
+    "@types/react-bootstrap": "^0.0.46",
+    "@types/react-dom": "^0.14.23",
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-webpack": "^2.0.1",
+    "less-plugin-npm-import": "^2.1.0",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2",
+    "react-period-picker": "https://github.com/fachowcy/react-period-picker",
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.1",
+    "uglify-js": "^2.8.9",
+    "webpack": "^2.2.1"
+  }
+}

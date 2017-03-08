@@ -1,5 +1,5 @@
 import * as React from "react";
-import PeriodPicker from "react-period-picker/src/period-picker";
+import PeriodPicker from "react-bootstrap-period-picker/src/period-picker";
 
 interface IPickerProps {
 	dateStart?: string;
